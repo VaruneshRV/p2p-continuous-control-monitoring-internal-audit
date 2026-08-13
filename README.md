@@ -39,9 +39,9 @@ Out of 20 audited orders, **50% passed clean**, while the remaining **50% exhibi
 
 ## 📝 Audit Recommendations & Remediation Plan
 
-1. **ERP Hard-Locks:** Reconfigure ERP workflows to automatically block invoice processing or payment generation for any supplier lacking an "Active & Approved" onboarding status.[cite: 9]
-2. **Automated Split PO Detection:** Deploy automated monitoring scripts to aggregate same-day, same-vendor purchase orders exceeding ₹100,000 and freeze them for audit review.[cite: 9]
-3. **Supply Chain Redundancy:** Establish secondary supply agreements for key operational inputs to mitigate single-vendor dependency.[cite: 9]
+1. **ERP Hard-Locks:** Reconfigure ERP workflows to automatically block invoice processing or payment generation for any supplier lacking an "Active & Approved" onboarding status.
+2. **Automated Split PO Detection:** Deploy automated monitoring scripts to aggregate same-day, same-vendor purchase orders exceeding ₹100,000 and freeze them for audit review.
+3. **Supply Chain Redundancy:** Establish secondary supply agreements for key operational inputs to mitigate single-vendor dependency.
 
 ---
 
